@@ -1,0 +1,29 @@
+[
+  {
+    "model": "myapp.product",
+    "pk": 1,
+    "fields": {
+      "name": "iPhone 13",
+      "price": "10.99",
+      "description": "The latest iPhone"
+    }
+  },
+  {
+    "model": "myapp.product",
+    "pk": 2,
+    "fields": {
+      "name": "Samsung Galaxy S22",
+      "price": "20.49",
+      "description": "Android smartphone with a stunning display."
+    }
+  },
+  {
+    "model": "myapp.product",
+    "pk": 3,
+    "fields": {
+      "name": "Sony PlayStation 5",
+      "price": "15.75",
+      "description": "Gaming console for immersive gaming experiences."
+    }
+  }
+]
